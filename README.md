@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SAKSHI KP WAGH
+- 👋 Hi, I’m SAKSHI  WAGH
 - 👀 I’m interested in learn new things in python laguage
 - 🌱 I’m currently learning B-TECH (under graduate)
 - 💞️ I’m looking to collaborate on...... 
